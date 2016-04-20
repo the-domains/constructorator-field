@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Constructorator Field]]></title>
         <description><![CDATA[Constructorator Field]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/constructorator-field/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 14:18:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 20 Apr 2016 14:21:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/constructorator-field/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Schedule]]></title>
+            <description><![CDATA[<article><h1>Schedule</h1></article>]]></description>
+            <link>http://constructoratorfield.weebly.com/schedule.html</link>
+            <guid isPermaLink="false">93b7e991-9e5a-4a98-8d8a-a1149b4bb4f3</guid>
+            <pubDate>Wed, 20 Apr 2016 14:21:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Here are some quick how to finds:]]></title>
             <description><![CDATA[<article><h1>Here are some quick how to finds:</h1><p>LEARN ARCHITECTURAL DRAWINGS</p></article>]]></description>
-            <link>undefinedhere-are-some-quick-how-to-finds/index.html</link>
+            <link>https://thegrid.ai/constructorator-field/here-are-some-quick-how-to-finds/index.html</link>
             <guid isPermaLink="false">688c8b5c-3353-4935-ab09-852bdb1b9853</guid>
             <pubDate>Wed, 20 Apr 2016 14:18:16 GMT</pubDate>
         </item>
