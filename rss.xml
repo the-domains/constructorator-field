@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Constructorator Field]]></title>
+        <description><![CDATA[Constructorator Field]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 20 Apr 2016 14:18:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Here are some quick how to finds:]]></title>
+            <description><![CDATA[<article><h1>Here are some quick how to finds:</h1><p>LEARN ARCHITECTURAL DRAWINGS</p></article>]]></description>
+            <link>undefinedhere-are-some-quick-how-to-finds/index.html</link>
+            <guid isPermaLink="false">688c8b5c-3353-4935-ab09-852bdb1b9853</guid>
+            <pubDate>Wed, 20 Apr 2016 14:18:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
